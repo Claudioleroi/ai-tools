@@ -3,7 +3,7 @@
 Voici un résumé de la liste des outils d'IA open source recherchés et des processus de déploiement en PaaS :
 
 ### Outils d'IA Open Source Recherchés
-1. **Hugging Face Transformers** - Modèles NLP (BERT, GPT, etc.).
+1. **Hugging Face Transformers** - Modèles NLP (BERT, GPT, etc.)
 2. **TensorFlow** - Framework d'apprentissage automatique.
 3. **PyTorch** - Modélisation flexible pour l'apprentissage profond.
 4. **OpenCV** - Traitement d'image et vision par ordinateur.
